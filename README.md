@@ -2,7 +2,7 @@
 Unit 10 OOP Homework: Template Engine - Employee Summary
 
 # Demo
-![Template-Engine-Employee-Summary](/Template Engine.gif)
+![Template-Engine-Employee-Summary](Template Engine.gif)
 ## Description:
   An application that will run as a Node CLI to gather information about each employee.
 ## Installation: 
