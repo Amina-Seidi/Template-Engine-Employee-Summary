@@ -34,8 +34,8 @@ function promptUser() {
       }, ]);
 }
 
-promptUser()
-.then(function ({ name, email, role, username }) {
+// promptUser()
+// .then(function ({ name, email, role, username }) {
 
 
 // Write code to use inquirer to gather information about the development team members,
